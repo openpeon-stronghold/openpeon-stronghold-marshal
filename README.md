@@ -6,6 +6,8 @@
 
 The Marshal sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Marshal in Stronghold Crusader.
 
+The Marshal is a disciplined and steadfast European lord whose loyalty is absolute once earned. Straightforward in speech and dependable in battle, he is the backbone of any crusader coalition — no theatrics, just soldierly duty carried out without complaint.
+
 ## Install
 
 ```bash
